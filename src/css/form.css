@@ -61,7 +61,7 @@ button {
 }
 
 
-.feedback {
+.feedback-form {
     border-radius: 8px;
     padding: 24px;
     width: 408px;
@@ -70,7 +70,7 @@ button {
     background-color: #fff;
 }
 
-.feedback label {
+.feedback-form label {
     display: flex;
     flex-direction: column;
     gap: 8px;
@@ -79,12 +79,12 @@ button {
     margin-bottom: 8px;
 }
 
-.feedback button {
+.feedback-form button {
     min-width: 86px;
     margin-top: 8px;
     background-color: #4e75ff;
 }
 
-.feedback button:hover {
+.feedback-form button:hover {
     background-color: #6c8cff;
 }
